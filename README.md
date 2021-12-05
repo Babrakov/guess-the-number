@@ -1,2 +1,2 @@
-# gtn
-Guess The Number
+# Guess The Number
+Simple Java application
